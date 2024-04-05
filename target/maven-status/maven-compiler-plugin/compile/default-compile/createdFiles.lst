@@ -1,0 +1,13 @@
+com\mycompany\ktgk_demon\resources\JakartaEE8Resource.class
+com\mycompany\ktgk_demon\controller\DeleteContractController.class
+com\mycompany\ktgk_demon\controller\GroupController.class
+com\mycompany\ktgk_demon\service\GroupsService.class
+com\mycompany\ktgk_demon\controller\AddContactController.class
+com\mycompany\ktgk_demon\service\ContactsService.class
+com\mycompany\ktgk_demon\controller\UpdateContactController.class
+com\mycompany\ktgk_demon\models\Contacts.class
+com\mycompany\ktgk_demon\implement\ContactServiceImplement.class
+com\mycompany\ktgk_demon\implement\GroupsServiceImplement.class
+com\mycompany\ktgk_demon\models\Group.class
+com\mycompany\ktgk_demon\database\DBConnect.class
+com\mycompany\ktgk_demon\JakartaRestConfiguration.class
